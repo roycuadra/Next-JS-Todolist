@@ -1,4 +1,4 @@
-## App DEMO:
+## Live DEMO:
 
 https://todolist-two-phi.vercel.app/
 
